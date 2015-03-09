@@ -196,7 +196,7 @@ DEPENDENCIES
   jquery-rails
   minitest-rails
   minitest-rails-capybara
-  pg (~> 0.17.1)
+  pg
   poltergeist
   rails (= 4.2.0)
   rails_12factor
